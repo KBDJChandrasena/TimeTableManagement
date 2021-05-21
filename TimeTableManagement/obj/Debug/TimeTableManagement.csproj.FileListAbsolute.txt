@@ -1,0 +1,92 @@
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.exe.config
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.exe
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.pdb
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Form1.resources
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Properties.Resources.resources
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.CopyComplete
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.exe
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.pdb
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.SetNotAvailableTimes.resources
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.WorkingDaysAndHours.resources
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Lecturer.AddLecturer.resources
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Session.Sessions.resources
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Subject.addSubject.resources
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Student.resources
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Advanced.advanced.resources
+C:\Users\User\source\repos\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Tag.tag.resources
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.exe.config
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.exe
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.pdb
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Lecturer.AddLecturer.resources
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Subject.addSubject.resources
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Advanced.advanced.resources
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Form1.resources
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Properties.Resources.resources
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Session.Sessions.resources
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.SetNotAvailableTimes.resources
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Student.resources
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Tag.tag.resources
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.WorkingDaysAndHours.resources
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.CopyComplete
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.exe
+C:\Users\User\Desktop\ITPm GORP\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.pdb
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.exe.config
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.exe
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.pdb
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.dll
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csprojAssemblyReference.cache
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Lecturer.AddLecturer.resources
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Subject.addSubject.resources
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Advanced.advanced.resources
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Form1.resources
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Properties.Resources.resources
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Session.Sessions.resources
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.SetNotAvailableTimes.resources
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Student.resources
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Tag.tag.resources
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.StudentForm.resources
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.WorkingDaysAndHours.resources
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.GenerateResource.cache
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.CoreCompileInputs.cache
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.CopyComplete
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.exe
+C:\Users\kbdja\OneDrive\Desktop\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.pdb
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.exe.config
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.exe
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.pdb
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.dll
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csprojAssemblyReference.cache
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Lecturer.AddLecturer.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Subject.addSubject.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Advanced.advanced.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Form1.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Properties.Resources.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Session.Sessions.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.SetNotAvailableTimes.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Student.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Tag.tag.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.StudentForm.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.WorkingDaysAndHours.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.GenerateResource.cache
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.CoreCompileInputs.cache
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.csproj.CopyComplete
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.exe
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.pdb
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Locations.resources
+C:\Users\kbdja\OneDrive\Desktop\itpm\Final Project\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Statistics.resources
